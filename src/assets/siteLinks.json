@@ -5,33 +5,33 @@
     "link": "https://mecv.us.kg/"
   },
   {
-    "icon": "AI",
-    "name": "人工智能",
+    "icon": "Book",
+    "name": "AI",
     "link": "https://mex.us.kg/"
   },
   {
-    "icon": "Bing-ai",
+    "icon": "Book",
     "name": "bing",
     "link": "https://bing.mex.us.kg/web/#/"
   },
   {
-    "icon": "work",
-    "name": "卡网",
+    "icon": "Cloud",
+    "name": "work",
     "link": "http://my.xn--8mr619f.chat/"
   },
   {
-    "icon": "MY",
-    "name": "梦渊",
+    "icon": "Compass",
+    "name": "MY",
     "link": "https://met.us.kg/"
   },
   {
-    "icon": "Unreal Engine",
-    "name": "虚幻",
+    "icon": "Fire",
+    "name": "Unreal Engine",
     "link": "https://www.unrealengine.com/marketplace/zh-CN/store"
   },
   {
-    "icon": "Vercel",
-    "name": "容器",
+    "icon": "LaptopCode",
+    "name": "Vercel",
     "link": "https://vercel.com/"
   }
 ]
