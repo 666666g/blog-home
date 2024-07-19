@@ -1,37 +1,37 @@
 [
   {
     "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "name": "官网",
+    "link": "https://mecv.us.kg/"
   },
   {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "icon": "AI",
+    "name": "人工智能",
+    "link": "https://mex.us.kg/"
   },
   {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "icon": "Bing-ai",
+    "name": "bing",
+    "link": "https://bing.mex.us.kg/web/#/"
   },
   {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "icon": "work",
+    "name": "卡网",
+    "link": "http://my.xn--8mr619f.chat/"
   },
   {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "icon": "MY",
+    "name": "梦渊",
+    "link": "https://met.us.kg/"
   },
   {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "icon": "Unreal Engine",
+    "name": "虚幻",
+    "link": "https://www.unrealengine.com/marketplace/zh-CN/store"
   },
   {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "icon": "Vercel",
+    "name": "容器",
+    "link": "https://vercel.com/"
   }
 ]
